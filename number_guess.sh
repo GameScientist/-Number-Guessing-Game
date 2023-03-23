@@ -18,7 +18,7 @@ fi
 
 echo -e "Guess the secret number between 1 and 1000:"
 SECRETNUMBER=$[ $RANDOM % 1000 + 0 ]
-GUESSES=0
+GUESSES=1
 while read GIVENNUMBER
 do
   if [[ $GIVENNUMBER =~ ^[0-9]+$ ]];
