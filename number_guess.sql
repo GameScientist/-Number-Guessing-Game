@@ -60,39 +60,16 @@ ALTER TABLE public.players OWNER TO freecodecamp;
 -- Data for Name: players; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.players VALUES ('user_1679601712975', 2, 369);
-INSERT INTO public.players VALUES ('user_1679603388209', 2, 227);
-INSERT INTO public.players VALUES ('user_1679602698663', 2, 363);
-INSERT INTO public.players VALUES ('user_1679601712976', 5, 15);
-INSERT INTO public.players VALUES ('user_1679602698664', 5, 1);
-INSERT INTO public.players VALUES ('user_1679601723903', 2, 326);
-INSERT INTO public.players VALUES ('user_1679603388210', 3, 395);
-INSERT INTO public.players VALUES ('user_1679601723904', 5, 1);
-INSERT INTO public.players VALUES ('user_1679602884209', 2, 756);
-INSERT INTO public.players VALUES ('user_1679601912484', 2, 453);
-INSERT INTO public.players VALUES ('user_1679602884210', 5, 1);
-INSERT INTO public.players VALUES ('user_1679601912485', 5, 10);
-INSERT INTO public.players VALUES ('user_1679603401743', 2, 690);
-INSERT INTO public.players VALUES ('user_1679602909289', 2, 197);
-INSERT INTO public.players VALUES ('user_1679602232873', 2, 611);
-INSERT INTO public.players VALUES ('user_1679603401744', 5, 1);
-INSERT INTO public.players VALUES ('user_1679602232874', 5, 1);
-INSERT INTO public.players VALUES ('user_1679602909290', 5, 99);
-INSERT INTO public.players VALUES ('user_1679602597272', 2, 1);
-INSERT INTO public.players VALUES ('user_1679602597273', 5, 1);
-INSERT INTO public.players VALUES ('user_1679603462572', 2, 284);
-INSERT INTO public.players VALUES ('user_1679603004810', 2, 296);
-INSERT INTO public.players VALUES ('user_1679603004811', 4, 465);
-INSERT INTO public.players VALUES ('user_1679603462573', 5, 1);
-INSERT INTO public.players VALUES ('user_1679603025849', 2, 256);
-INSERT INTO public.players VALUES ('user_1679603536878', 2, 1);
-INSERT INTO public.players VALUES ('user_1679603025850', 5, 32);
-INSERT INTO public.players VALUES ('user_1679603536879', 5, 33);
-INSERT INTO public.players VALUES ('user_1679603055363', 2, 604);
-INSERT INTO public.players VALUES ('user_1679603055364', 5, 234);
+INSERT INTO public.players VALUES ('user_1679606271061', 2, 38);
+INSERT INTO public.players VALUES ('user_1679606271062', 5, 172);
+INSERT INTO public.players VALUES ('user_1679606285435', 2, 87);
+INSERT INTO public.players VALUES ('user_1679606285436', 5, 36);
+INSERT INTO public.players VALUES ('user_1679606395161', 2, 11);
+INSERT INTO public.players VALUES ('user_1679606395162', 5, 80);
+INSERT INTO public.players VALUES ('user_1679606403432', 2, 176);
+INSERT INTO public.players VALUES ('user_1679606403433', 5, 118);
 
 
 --
 -- PostgreSQL database dump complete
 --
-
